@@ -1,0 +1,76 @@
+html, body {
+    padding: 0;
+    margin: 0;
+    height: 100%;
+    width: 100%;
+}
+
+body {
+    background-color: #FFF;
+}
+
+header {
+    background-color: #820081;
+    width: 100%;
+    height: 10%;
+}
+
+.container {
+    background-color: #FF0000;
+    height: 100%;
+    width: 70%;
+    margin: auto;
+    margin-top: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.three-cards {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.card {
+    background-color: #1D00FF;
+    height: 20%;
+    width: 60%;
+    margin-bottom: 10%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+.yellow-block {
+    background-color: #FEFF00;
+    height: 50%;
+    width: 20%;
+    margin-right: -15%;
+}
+
+.green-block {
+    background-color: #008200;
+    height: 65%;
+    width: 50%;
+}
+
+/*//////
+
+ {
+    background-color: #1D00FF;
+}
+
+ {
+    background-color: #FF0000;
+
+}
+
+ {
+    background-color: #FEFF00;
+}*/
+

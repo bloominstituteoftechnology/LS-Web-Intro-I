@@ -1,0 +1,45 @@
+html, body {
+    padding: 0;
+    margin: 0;
+    height: 100vh;
+    width: 100%;
+}
+
+header {
+  height: 10vh;
+  width: 100%;
+}
+
+header {
+  background-color: #FF0000;
+}
+
+.columns {
+  display: flex;
+  margin: 0;
+  padding: 0;
+}
+
+#column {
+    width: 33.33%;
+    height: 80vh;
+}
+.first {
+    background-color: #1D00FF;
+}
+
+.second {
+    background-color: #820081;
+
+}
+
+.third {
+    background-color: #FEFF00;
+}
+
+footer {
+  clear: both;
+  background-color: #008300;
+  height: 10vh;
+  width: 100%;
+}
