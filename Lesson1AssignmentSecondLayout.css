@@ -1,0 +1,61 @@
+body{
+    background:  #ddd;
+}
+.whiteClass{
+    width: 50%;
+    height: 600px;
+    background: white;
+    position: absolute;
+    margin-left: 25%;
+    margin-right: 25%px;
+    border: 0.5px solid black;
+}
+
+.redClass {
+    width: 99.3%;
+    height: 12.25%;
+    margin-left:0.35%;
+    margin-right:0.35%;
+    margin-top:0.25%;
+    background: red;
+    position: absolute;
+}
+
+.blueClass {
+    width: 33.1%;
+    height: 75%;
+    background: blue;
+    position: absolute;
+    margin-left:0.35%;
+    top:12.5%
+}
+
+.purpleClass {
+    width: 33.1%;
+    height: 75%;
+    background: purple;
+    position: absolute;
+    top:12.5%;
+    margin-left: 33.45%;
+}
+.yellowClass{
+        width: 33.1%;
+        height: 75%;
+        background: yellow;
+        position: absolute;
+        top:12.5%;
+        margin-left: 66.55%;
+        margin-right: 0.35%;
+}
+.greenClass {
+    width: 99.3%;
+    height: 12.25%;
+    background: green;
+    position: absolute;
+    top:87.5%;
+    margin-left:0.35%;
+    margin-right:0.35%;
+    margin-bottom: 0.25;
+    
+}
+
